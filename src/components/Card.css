@@ -1,0 +1,32 @@
+.pokemon-card {
+  border: 1px solid rgb(136, 136, 136);
+  border-radius: 8px;
+  padding: 20px 10px;
+}
+
+.pokemon-card img {
+  width: 250px;
+  background: #f2f2f2;
+  border-radius: 10px;
+}
+
+.pokemon-card h1 {
+  margin: 0;
+  font-size: 12px;
+}
+
+.pokemon-card p {
+  font-size: 24px;
+}
+
+.pokemons-types {
+  display: flex;
+  gap: 10px;
+}
+
+.pokemons-types div {
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+  padding: 0px 15px;
+}
